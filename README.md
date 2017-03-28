@@ -7,4 +7,4 @@ The Dungeons and Dragons campaign featuring:
 
 ## Summaries
 
-* [Part 1](./A Tale of a Prince Chapter 1 Part 1 Summary.md)
+* [Part 1](./part-1.md)
