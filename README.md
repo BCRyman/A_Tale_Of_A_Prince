@@ -7,5 +7,5 @@ The Dungeons and Dragons campaign featuring:
 
 ## Summaries
 
-* [Part 1](./summaries/part-1.md)
-* [Part 3](./summaries/part-3.md)
+* [Part 1](./Summaries/part-1.md)
+* [Part 3](./Summaries/part-3.md)
