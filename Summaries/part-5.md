@@ -1,0 +1,25 @@
+Part 5 saw the party waking up for a night rest outside of the now sunk mine.
+- Met Tillion
+- Entered the Slums
+- Met Tirion at the front gate
+- Signed the pledge
+- Tour of city
+- Did some shopping
+- Met Elora
+  - Flirted with Regor
+  - Informed he wasn't the only "shield" tribe in the city
+  - Found the power to weild the carpet - needs attunement
+  - the scroll however was given back
+  - axelaylee need attunement
+- Grog struggled to get into the Rusty Shield
+  - Davril performed to get free lodgings for the night
+  - Bar games ensued, darts, Kiritos cup game, Grog tavern brawl
+- Next day visited Stevenas and were properly rewarded for saving the prince
+  - Regor gave scrol to Stevenas
+  - Stevenas is going to summon Aliisa
+  - adventurers must go to
+    - Whitemeer and The Capitol
+    - To get support for clearing and relighting the forbidden kingdom
+- Shopping Shopping shopping
+  - Kirito engaged in Thieves Cant to get some off market items
+  
