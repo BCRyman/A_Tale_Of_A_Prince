@@ -1,7 +1,9 @@
 ## Archer Unit
-HP: 50 
+HP: 120
 Unit Count: 10
+Single Unit Health: 12
 AC: 13
+Movement Speed: 30ft
 
 ## Skills
 DEX - 15    +2
@@ -35,3 +37,6 @@ Damage (d4 + d6 fire damage) * b
 a) d20 to determine hit
 b) d10 to determine how many hit
 Damage (D4 + STR mod) * b
+
+### Resolve, Beserk or Flee
+Once the Unit is down to 5 count the units resolve is tested, each turn roll a d20, >10 the unit stands strong, <10 the unit begins to move away it's full movement each turn and cannot attack.
