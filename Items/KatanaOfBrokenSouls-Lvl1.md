@@ -20,10 +20,3 @@ This may leave permanent scaring effects.
 
 Silent Strike - Melee - Costs 6 Souls:
 Once every full rest, if stealthed you can use this ability to automatically critical an attack. 
-
-Soul Strike - Melee - Costs 5 Souls: 
-Once every full rest, you can channel the broken souls stored within this blade to cause an extra 2d8 Necrotic damage on the targeted enemy.
-
-Cursing Word - Range, Line of Sight & 25ft - Costs 10 Souls:
-Once every full rest, you can cause yourself to loose half your maximum health, the enemy must make a constitution saving throw or take your max health damage Necrotic Damage. If the target saves it only takes half damage.
-
