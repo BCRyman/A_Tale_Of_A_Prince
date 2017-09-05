@@ -1,9 +1,9 @@
-#Katana of Broken Souls
+#Level 1 - Katana of Broken Souls - Very Rare
 
 Base stats (from here: https://www.dandwiki.com/wiki/Katana_(5e_Equipment) )
 
 Cost 15gp
-Damage 1d8 Slashing
+Damage 1d8 Slashing + 2
 Weight 3lb
 Properties Special Versatile
 
@@ -24,6 +24,6 @@ Once every full rest, if stealthed you can use this ability to automatically cri
 Soul Strike - Melee - Costs 5 Souls: 
 Once every full rest, you can channel the broken souls stored within this blade to cause an extra 2d8 Necrotic damage on the targeted enemy.
 
-Cursing Word - Range, Line of Sight - Costs 10 Souls:
-Once every full rest, you can cause yourself to loose half your maximum health in order cause your max health damage Necrotic Damage to an Enemy.
+Cursing Word - Range, Line of Sight & 25ft - Costs 10 Souls:
+Once every full rest, you can cause yourself to loose half your maximum health, the enemy must make a constitution saving throw or take your max health damage Necrotic Damage. If the target saves it only takes half damage.
 
