@@ -1,4 +1,4 @@
-## Flaming Spear
+## Flaming Spear (Uncommon)
 
 Based on the basic [spear](https://roll20.net/compendium/dnd5e/Spear#content)
 
